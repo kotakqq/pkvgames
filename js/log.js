@@ -1,5 +1,5 @@
 var idtime = (new Date()).getTime();  
-var privacypolicy = "https://mitrapkv.github.io/pkvgames/privacy.html";
+var privacypolicy = "privacy.html";
 var applink = "log.json?id="+ idtime;
 document.getElementById("loading").style.display = "block";
 
